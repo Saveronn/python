@@ -1,2 +1,2 @@
 # python
-projects
+This is my college homework.
